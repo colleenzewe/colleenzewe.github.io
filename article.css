@@ -1,0 +1,34 @@
+h1 {
+  color: purple;
+  font-size: 42px
+}
+body {
+  font-size: 18px;
+}
+
+article {
+  padding: 10px 60;
+
+  font-family: 'Monoton', cursive;
+
+}
+
+.byline
+{
+  font-style: oblique;
+  font-family: georgia;
+  font-weight: bold;
+  font-size: 21px;
+  color: blue;
+}
+
+.dateline
+{font-size: 19.5px;
+}
+
+figcaption {font-size: 12px; font-style: oblique; margig-right: 10px; margin-left: 10px}
+
+img {
+  margin-right: 70px;
+  padding-right: 30px
+}
