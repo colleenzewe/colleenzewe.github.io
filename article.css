@@ -25,9 +25,11 @@ font-faily: georgia;
 {font-size: 19.5px;
 }
 
-figcaption {font-size: 12px; font-style: oblique; margig-right: 10px; margin-left: 10px}
+figcaption {font-size: 16px; font-style: oblique; margig-right: 10px; margin-left: 10px}
 
 img {
   margin-right: 70px;
   padding-right: 30px
+  height: auto;
+  width: 400px
 }
