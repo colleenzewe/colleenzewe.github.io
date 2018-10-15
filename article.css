@@ -8,14 +8,13 @@ body {
 
 article {
   padding: 10px 60;
-font-faily: georgia;
+font-faily: calibri;
 
 }
 
 .byline
 {
 
-  font-family: georgia;
   font-weight: bold;
   font-size: 12px;
   color: gray;
@@ -39,3 +38,9 @@ figure {background-color: #B0D5E2;
 background-size: contain;
 width: 600px;
 height: auto}
+
+@media screen and (min-width: 40.5em)
+{
+  .product-img 
+    width: 50%;
+    float: left; }
