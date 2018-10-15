@@ -36,7 +36,7 @@ img {
 
 figure {background-color: #F1F6F7;
 background-size: contain;
-width: 600px;
+max-width: 600;
 height: auto}
 
 @media only screen and (max-device-width: 480px) {
