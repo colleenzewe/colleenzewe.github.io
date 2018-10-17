@@ -1,12 +1,16 @@
 h1 {
   color: black;
   font-size: 42px;
-  font-family: 'Spectral', serif;
+
   font-weight: bold;
+  background: url(https://bloximages.chicago2.vip.townnews.com/lakeexpo.com/content/tncms/assets/v3/editorial/a/36/a360a35e-6be5-11e8-bf00-b7f0377b8f26/5b1bd1484bb73.image.jpg?resize=1200%2C675);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
 }
 body {
   font-size: 18px;
-  font-family: 'spectral'
+  font-family: 'spectral' serif
 }
 
 article {
@@ -16,10 +20,13 @@ article {
 
 }
 
-blockquote
+.blockquote
 {
-  align-content: center;
+  text-align: center;
 }
+
+
+
 .byline
 {
 
@@ -39,7 +46,7 @@ blockquote
 
 strong
 {
-  font-family: 'spectral', bold;
+
 }
 
 figcaption {font-size: 16px; font-style: oblique; margin-right: 10px; margin-left: 10px}
