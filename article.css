@@ -1,17 +1,25 @@
 h1 {
-  color: #397287;
-  font-size: 42px
+  color: black;
+  font-size: 42px;
+  font-family: 'Spectral', serif;
+  font-weight: bold;
 }
 body {
   font-size: 18px;
+  font-family: 'spectral'
 }
 
 article {
-  padding: 10px 10px;
-font-faily: calibri;
+  padding: 20px 20px;
+  letter-spacing: .9
+
 
 }
 
+blockquote
+{
+  align-content: center;
+}
 .byline
 {
 
@@ -22,6 +30,16 @@ font-faily: calibri;
 
 .dateline
 {font-size: 19.5px;
+}
+
+.caption
+{
+  letter-spacing: 1.7px;
+}
+
+strong
+{
+  font-family: 'spectral', bold;
 }
 
 figcaption {font-size: 16px; font-style: oblique; margin-right: 10px; margin-left: 10px}
